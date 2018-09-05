@@ -9,8 +9,8 @@ import edu.salle.custommoodle.dataacess.StudentDAO;
 import java.util.List;
 
 /**
- *
- * @author Alienware17
+ * 
+ * @author rony01
  */
 public class StudentDAOMySQL implements StudentDAO{
 

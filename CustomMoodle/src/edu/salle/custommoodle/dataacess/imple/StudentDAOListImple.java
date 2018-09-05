@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author Alienware17
+ * @author rony01
  */
 public class StudentDAOListImple implements StudentDAO {
 

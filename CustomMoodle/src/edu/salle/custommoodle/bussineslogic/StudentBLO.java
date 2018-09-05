@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  *
- * @author Alienware17
+ * @author rony01
  */
 public class StudentBLO {
     private StudentDAO studentDAO;

@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Alienware17
+ * @author rony01
  */
 public class StudentWindow extends javax.swing.JFrame {
 

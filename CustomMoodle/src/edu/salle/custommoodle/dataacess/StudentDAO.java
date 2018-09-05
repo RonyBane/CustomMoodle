@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author Alienware17
+ * @author rony01
  */
 public interface StudentDAO {
     public Student  save(Student student);
